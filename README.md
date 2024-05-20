@@ -1,6 +1,6 @@
 # Rshare 1.0
 
-Rshare é um aplicativo de compartilhamento de arquivos com uma interface gráfica moderna usando Kivy.
+Rshare 1.0 é um aplicativo de compartilhamento de arquivos desenvolvido em Python, que permite aos usuários compartilhar arquivos facilmente entre dispositivos conectados na mesma rede local. O aplicativo oferece uma interface gráfica moderna e intuitiva usando Kivy, proporcionando uma experiência de usuário amigável e eficiente.
 
 ## Demonstração
 
