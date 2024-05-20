@@ -37,4 +37,13 @@ Veja a demonstração em vídeo abaixo:
     ```
 
 ## Estrutura do Projeto
+Rshare/
+├── server/
+│ ├── gui.py
+│ ├── web_server.py
+│ └── main.py
+├── templates/
+│ └── index.html
+├── .gitignore
+└── README.md
 
