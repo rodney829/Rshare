@@ -21,7 +21,7 @@ Veja a demonstração em vídeo abaixo:
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seu-usuario/Rshare.git
+    git clone https://github.com/rodney829/Rshare.git
     ```
 2. Navegue até o diretório do projeto:
     ```bash
