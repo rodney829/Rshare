@@ -1,19 +1,40 @@
 # Rshare 1.0
 
-## Descrição
-Rshare 1.0 é um servidor de compartilhamento de arquivos para redes locais. Ele possui uma interface gráfica amigável para o servidor e uma interface web responsiva para o compartilhamento de arquivos.
+Rshare é um aplicativo de compartilhamento de arquivos com uma interface gráfica moderna usando Kivy.
 
-## Como usar
+## Demonstração
 
-### Instalar dependências
-```
-pip install -r requirements.txt
-```
+Veja a demonstração em vídeo abaixo:
 
-### Executar o servidor
-```
-python main.py
-```
+<div align="center">
+    <iframe width="560" height="315" src="" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
-### Acessar a interface web
-Abra um navegador e vá para `http://<IP_do_seu_computador>:5000`
+## Requisitos
+
+- Python 3.x
+- Kivy
+- Flask
+- Tkinter
+
+## Como Usar
+
+1. Clone o repositório:
+    ```bash
+    git clone https://github.com/seu-usuario/Rshare.git
+    ```
+2. Navegue até o diretório do projeto:
+    ```bash
+    cd Rshare
+    ```
+3. Instale as dependências:
+    ```bash
+    pip install -r requirements.txt
+    ```
+4. Execute o aplicativo:
+    ```bash
+    python server/main.py
+    ```
+
+## Estrutura do Projeto
+
