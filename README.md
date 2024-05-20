@@ -36,14 +36,3 @@ Veja a demonstração em vídeo abaixo:
     python server/main.py
     ```
 
-## Estrutura do Projeto
-Rshare/
-├── server/
-│ ├── gui.py
-│ ├── web_server.py
-│ └── main.py
-├── templates/
-│ └── index.html
-├── .gitignore
-└── README.md
-
